@@ -11,6 +11,7 @@ public class Appium {
 	public void Appiumtest()
 	{
 		System.out.println("Appium");
+		System.out.println("Appium");
 		
 	}
 }
